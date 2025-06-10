@@ -1,5 +1,5 @@
 # The Tiny Project
-This project is an exercise of **Programming 2 Course**, practicing implementing principles of OOP using C++. It includes 2 parts to build a program to solve a system of linear equations.
+This project is an exercise of **Programming 2 Course**, practicing implementing OOP using C++. It includes 2 parts to build a program to solve a system of linear equations.
 ## Part A
 Vector, Matrix, and LinearSystem classes are built in order to solve a linear system equation: **Ax = b**. They are written in .h files and tested.
 
